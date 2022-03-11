@@ -4,7 +4,7 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
-        appBar: ,
+        appBar: AppBar(),
       ),
     ),
   );
